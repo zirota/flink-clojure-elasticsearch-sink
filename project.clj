@@ -1,7 +1,7 @@
 (def version {:elasticsearch "7.17.1"
               :flink         "1.15.0"})
 
-(defproject flink-clojure-elasticsearch-sink "0.1.0-SNAPSHOT"
+(defproject org.clojars.hazzenc/flink-clojure-elasticsearch-sink "0.1.0-SNAPSHOT"
   :description "A Clojure wrapper for the Elasticsearch 7 Flink Connector"
   :url "http://example.com/FIXME"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
